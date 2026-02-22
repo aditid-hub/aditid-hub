@@ -1,11 +1,8 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aditid-hub&label=Profile%20views&color=brightgreen&style=plastic" alt="Profile Views" />
-</p>
 
-![githubHeader](https://github.com/user-attachments/assets/ed38d141-ea2f-4616-8998-7fc3f4915955)
+![githubHeader](ADITI.png)
 
 
-<h1 align="center" > Hi there, I'm <a  href="https://www.linkedin.com/in/vidhan-thakur27/">Vidhan Thakur</a> <img height="80" alt="Chika Fujiwara" src="https://github.com/VidhanThakur09/VidhanThakur09/blob/111ebe9dc9d32ddbb6106a0f85a8226c91194af5/anime-dance-_online-video-cutter.com_.gif"/></h1>
+<h1 align="center" > Hi there, I'm <a  href="https://www.linkedin.com/in/vidhan-thakur27/">Aditi Dubey</a> <img height="80" alt="Chika Fujiwara" src="https://github.com/VidhanThakur09/VidhanThakur09/blob/111ebe9dc9d32ddbb6106a0f85a8226c91194af5/anime-dance-_online-video-cutter.com_.gif"/></h1>
 
 <img align="right" src="https://github.com/VidhanThakur09/VidhanThakur09/blob/7a3cee7714303f1098bcf3301c0203188f01b3c0/08405745-3c0f-4733-915c-c05dd108b8fc.gif" alt="Profile Image" width="400"/>
 
